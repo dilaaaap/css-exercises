@@ -1,0 +1,22 @@
+p.a {
+    color: black;
+    background-color: lightcoral;
+    font-family: "Verdana", sans-serif, DejavuSans;
+}
+
+p.a#a3 {
+    font-size: 24px;
+}
+
+#a4 {
+    color: black;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#a2 {
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+}
